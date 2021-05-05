@@ -1,7 +1,7 @@
 ## Bienvenue dans notre site web dédié à la provenance des oeuvres d'art du XIXe siécle
-
-
-### LIENS
+Ce projet dont le théme principal porte sur le parcours de vie (provenance) des oeuvres d'art du XIXe siécle a été réalisé dans le cadre du seminaire MIP 2021 sous la diréction de Monsieur Antoine COURTIN, Dario CAMPAGNO, Benjamin BARBIER et Nicolas SAURET.
+Ci-dessous nous avons mis les différentes étapes de la réalisation du projet. 
+### Accés aux sources
 
 - [Problématique](problematique.md)
 - [Méthodologie](methodologie.md)
