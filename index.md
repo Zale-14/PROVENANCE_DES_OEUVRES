@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### LIENS
 
 - [Problématique](problematique.md)
-- [Méthodologie](Methodologie.md)
+- [Méthodologie](methodologie.md)
 
 ```markdown
 Syntax highlighted code block
