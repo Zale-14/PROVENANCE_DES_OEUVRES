@@ -10,8 +10,11 @@ Ci-dessous nous avons mis les différentes étapes de la réalisation du projet.
 
 ### Projet réalisé sous la diréction de :
 Monsieur Antoine COURTIN
+
 Monsieur Dario CAMPAGNO
+
 Monsieur Benjamin BARBIER
+
 Monsieur Nicolas SAURET
 
 ```markdown
