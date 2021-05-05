@@ -1,8 +1,5 @@
 ## Bienvenue dans notre site web dédié à la provenance des oeuvres d'art du XIXe siécle
 
-You can use the [editor on GitHub](https://github.com/Zale-14/PROVENANCE_DES_OEUVRES/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### LIENS
 
