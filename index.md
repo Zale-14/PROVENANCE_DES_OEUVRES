@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Accés au
 
-https://zale-14.github.io/LA_PROBLEMATIQUE/
+[url](https://zale-14.github.io/LA_PROBLEMATIQUE/)
 
 ```markdown
 Syntax highlighted code block
