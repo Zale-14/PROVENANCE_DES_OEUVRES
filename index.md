@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/Zale-14/PROVENANCE_DES_OEU
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Accés au
+### LIENS
 
-[url](https://zale-14.github.io/LA_PROBLEMATIQUE/)
+- [Lien à la problématique](problematique.md)
 
 ```markdown
 Syntax highlighted code block
