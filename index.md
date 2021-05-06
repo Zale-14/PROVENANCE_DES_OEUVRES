@@ -4,7 +4,7 @@ Ce projet dont le théme principal porte sur le parcours de vie (provenance) des
 ## Jeux de données
 Les jeux de données mises à notre disposition portent sur la vente antique des objets d'art en France au XIXe siécle. Ils sont scindé en 3 bases de données dont une sur les ojets, une sur les collectionneurs et une sur les ventes.
 
-### Objetcfifs
+### Objectifs
 
 L'objectif étant de parcourir d'une part les bases de données afin d'avoir le maximun d'information nécéssaire qui nous permet de mieux cerner le sujet afin de construire une problématique de recherche et d'autre part de fusionner les 3 bases de données en une seule dans l'optique de pouvoir faire des visualisations qui nous permettraient d'apporter des éléments de réponses à notre problématique.
 
