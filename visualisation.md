@@ -4,12 +4,12 @@ Elle constitue la partie qui permet de répondre aux différentes questions de r
 # 1. Visualisation sur l'évolution des prix par catégorie pour la vente Magnoncour, Canino et Beugnot
 
 [Graphique_vente_Beugnot](https://public.flourish.studio/visualisation/6068274/)
-<div class="flourish-embed flourish-chart" data-src="visualisation/6068274"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 Testantoine
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Visualisation vente Beugnot                      | Visualisation Magnoncourt | Column 3 Header |
+| <div class="flourish-embed flourish-chart" data-src="visualisation/6068274"><script src="https://public.flourish.studio/resources/embed.js"></script></div> |<div class="flourish-embed flourish-chart" data-src="visualisation/6067576"><script src="https://public.flourish.studio/resources/embed.js"></script></div>| --------------- |
+|  | Row 1 Column 2 | Row 1 Column 3 |
 | Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
 | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
