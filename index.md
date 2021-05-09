@@ -14,7 +14,7 @@ Ci-dessous nous avons mis les différentes étapes de la réalisation du projet.
 
 - [Problématique](problematique.md)
 - [Méthodologie](methodologie.md)
-- [Visualisations/Resultats](visualisation.md)
+- [Principaux résultats](visualisation.md)
 
 ### Projet réalisé sous la diréction de :
 Monsieur Antoine COURTIN
