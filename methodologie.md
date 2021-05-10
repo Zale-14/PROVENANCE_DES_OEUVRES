@@ -11,7 +11,8 @@ Quant à NotPad++, il a surtout servi à créer des codes lors de la fusion, il 
 En effet, il était indispensable de mettre les trois bases de données normalisées dans un seul et unique fichier. Il s’agit dans un premier temps de fusionner les données présentées dans les différentes bases de données pour établir les liens entre les objets, les collectionneurs et les ventes… Cette union a été rendue possible grâce à une clé d’identification unique qui relie le fichier ventes à celui des objets et enfin à celui des acteurs grâce au Template suivant : cell.cross(“nomduprojet”, “nomColonneeCléIntermédiaire”)[0].cells[“nomColonneArécupérer”].value
 ## Pistes de réflexions 
 Le troisième jour du séminaire a été un tournant décisif dans la réalisation du projet parce que c’était le dernier jour avant la présentation devant le jury. Ainsi plusieurs pistes de réflexions ont été soulevées afin de trouver la bonne astuce ou technique qui nous a permis d’avoir une approche globale du sujet et d’en définir les différents axes de visualisation qui permettraient d’apporter des réponses à notre problématique. Cette image ci-dessous retrace les différentes pistes de réflexion qui nous ont conduit aux résultats obtenus.
-[priémere réflexion](pistes.jpg)
+
+[priémere réflexion](https://github.com/Zale-14/PROVENANCE_DES_OEUVRES/blob/main/presentation/pistes.JPG)
 
 
 # A supprimer
