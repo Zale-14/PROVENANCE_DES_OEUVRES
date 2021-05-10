@@ -37,11 +37,13 @@ Pour faire une bonne représentation graphique, pour chaque vente aux enchères,
 
 
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
-|<iframe src='https://flo.uri.sh/visualisation/6068274/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:50%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:50%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6068274/?utm_source=embed&utm_campaign=visualisation/6068274' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div> | <iframe src='https://flo.uri.sh/visualisation/6067576/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:50%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:50%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6067576/?utm_source=embed&utm_campaign=visualisation/6067576' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div> |<div class="flourish-embed flourish-chart » data-src="visualisation/6069222"><script src="https://public.flourish.studio/resources/embed.js"></script></div> |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+
+<iframe src='https://flo.uri.sh/visualisation/6068274/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:50%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:50%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6068274/?utm_source=embed&utm_campaign=visualisation/6068274' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div> 
+
+<iframe src='https://flo.uri.sh/visualisation/6067576/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:50%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:50%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6067576/?utm_source=embed&utm_campaign=visualisation/6067576' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+
+
 
 
 
