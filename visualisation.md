@@ -17,8 +17,11 @@ Cependant, l’absence de certaines données géographiques n'incorpore pas une 
 L’axe des « lieux de découvertes » nous semble donc plus intéressant à exploiter, d’où notre choix de traiter la provenance des œuvres d'art antique du XIXe siècle à partir des lieux de découvertes. 
 Par conséquent, l’établissement du flux des œuvres d’art dans le temps et dans l’espace est uniquement calqué sur la base des pistes de localisations disponibles
 
-(image à inserer) 
+(image à 
 ## Flux des objets d’art : du lieu de découvertes au lieu de conservation actuel
+
+<iframe <div class="flourish-embed flourish-map » data-src="visualisation/6065800"><script src="https://public.flourish.studio/resources/embed.js"></iframe>
+                                                                                                                                          
 L’objectif de ce graphique est de montrer le flux  des objets dans le temps et dans l’espace, du lieu où ils ont été découverts à leur lieu de conservation, la direction du flux étant du vert au rose : les racines en couleur verte représentent les lieux de découvertes et les directions en couleur roses sont les lieux de détentions des objets après ventes. 
 
 L’avantage de ce graphique, c’est qu’il permet également d’étudier les objets par catégorie (type d’objet) grâce à la fonctionnalité dite « menu déroulant » et de pouvoir déterminer le type d’objet qui provient généralement de tel ou tel pays (ex. Egypte, d’Italie ou de la Grèce) qui l’aurait vendu et éventuellement connaitre son prix au marché à cette période-là.
