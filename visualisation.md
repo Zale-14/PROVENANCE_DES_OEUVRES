@@ -6,11 +6,13 @@ Ainsi, Flourish et Datawrapper nous semblent le meilleur choix en raison des for
 Dans notre fichier de départ (« INHA_objets.csv ») qui comptait 1348 objets, seuls 430 objets étaient associés à leur lieu de découvertes contre 918 objets. Ainsi, 68% des objets d’art n’avaient pas de lieu de découverte ou n’ont pas été renseignés. 
 Nous avons travaillé sur 1348 objets au total dans notre fichier de départ. Parmi ceux-là, seuls 430 lieux de découvertes sont connus contre 918 lieux non recensés, soit respectivement, 32% de lieux identifiés contre 68% inconnus ou non renseignés. 
 
-(image à inserer)
+![1](https://user-images.githubusercontent.com/75143201/117737021-3b9c3c80-b1f9-11eb-810f-d812c7243d7e.png)
+
  
 Par ailleurs, ce taux d’indisponibilité de données géographiques est très reluisant si on le compare à celui des lieux de découvertes qui, s’élève à 85% contre seulement 15% de lieux de découvertes (202 lieux de création connus contre 1146 lieux méconnus).
 
-(image à inserer)
+![2](https://user-images.githubusercontent.com/75143201/117737037-448d0e00-b1f9-11eb-8686-21b1124696f0.png)
+
 
 Ainsi, la difficulté liée au traitement de la provenance des œuvres d’art prend tout son sens, dans la mesure où, ni l’un ou l’autre des postulats de départ ne satisfassent en termes de données géographiques, indispensables pour établir la provenance des objets. 
 Cependant, l’absence de certaines données géographiques n'incorpore pas une incertitude qu’on pourrait attribuer aux valeurs manquantes puisqu’elles ont été mises de côté pour la même raison : ne pas fausser les résultats. Au contraire, elle offre un éventail non débordant pour le traitement et suffisant pour sortir les différentes tendances liées à la provenance des œuvres d’art.
