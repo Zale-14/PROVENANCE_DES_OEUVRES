@@ -20,8 +20,9 @@ Par conséquent, l’établissement du flux des œuvres d’art dans le temps et
 (image à 
 ## Flux des objets d’art : du lieu de découvertes au lieu de conservation actuel
 
-<iframe <div class="flourish-embed flourish-map » data-src="visualisation/6065800"><script src="https://public.flourish.studio/resources/embed.js"></iframe>
-                                                                                                                                          
+
+<iframe src='https://flo.uri.sh/visualisation/6065800/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox ='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!; margin-top:4px!important;text-align:right!important;' ><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6065800/?utm_source=embed&utm_campaign=visualisation/6065800' target='_top' style='text-decoration :none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;' > </a></div>
+                                                                                                                                         
 L’objectif de ce graphique est de montrer le flux  des objets dans le temps et dans l’espace, du lieu où ils ont été découverts à leur lieu de conservation, la direction du flux étant du vert au rose : les racines en couleur verte représentent les lieux de découvertes et les directions en couleur roses sont les lieux de détentions des objets après ventes. 
 
 L’avantage de ce graphique, c’est qu’il permet également d’étudier les objets par catégorie (type d’objet) grâce à la fonctionnalité dite « menu déroulant » et de pouvoir déterminer le type d’objet qui provient généralement de tel ou tel pays (ex. Egypte, d’Italie ou de la Grèce) qui l’aurait vendu et éventuellement connaitre son prix au marché à cette période-là.
