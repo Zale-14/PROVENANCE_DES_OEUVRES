@@ -12,7 +12,7 @@ En effet, il était indispensable de mettre les trois bases de données normalis
 ## Pistes de réflexions 
 Le troisième jour du séminaire a été un tournant décisif dans la réalisation du projet parce que c’était le dernier jour avant la présentation devant le jury. Ainsi plusieurs pistes de réflexions ont été soulevées afin de trouver la bonne astuce ou technique qui nous a permis d’avoir une approche globale du sujet et d’en définir les différents axes de visualisation qui permettraient d’apporter des réponses à notre problématique. Cette image ci-dessous retrace les différentes pistes de réflexion qui nous ont conduit aux résultats obtenus.
 
-[priémere réflexion](https://github.com/Zale-14/PROVENANCE_DES_OEUVRES/blob/main/presentation/pistes.JPG)
+[priémere réflexion](https://github.com/Zale-14/PROVENANCE_DES_OEUVRES/blob/main/presentation/reflexion.jpg)
 
 
 # A supprimer
