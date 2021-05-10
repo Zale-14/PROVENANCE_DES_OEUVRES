@@ -19,7 +19,7 @@ Cependant, l’absence de certaines données géographiques n'incorpore pas une 
 L’axe des « lieux de découvertes » nous semble donc plus intéressant à exploiter, d’où notre choix de traiter la provenance des œuvres d'art antique du XIXe siècle à partir des lieux de découvertes. 
 Par conséquent, l’établissement du flux des œuvres d’art dans le temps et dans l’espace est uniquement calqué sur la base des pistes de localisations disponibles
 
-(image à 
+
 ## Flux des objets d’art : du lieu de découvertes au lieu de conservation actuel
 
 
@@ -37,7 +37,11 @@ Pour faire une bonne représentation graphique, pour chaque vente aux enchères,
 
 
 
-
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+|<iframe src='https://flo.uri.sh/visualisation/6068274/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6068274/?utm_source=embed&utm_campaign=visualisation/6068274' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div> | <iframe src='https://flo.uri.sh/visualisation/6067576/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6067576/?utm_source=embed&utm_campaign=visualisation/6067576' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div> |<div class="flourish-embed flourish-chart » data-src="visualisation/6069222"><script src="https://public.flourish.studio/resources/embed.js"></script></div> |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
 
 
@@ -58,9 +62,5 @@ Force est de constater que selon les ventes et la période, les goûts et les pr
 
 
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
-| <div class="flourish-embed flourish-chart" data-src="visualisation/6068274"><script src="https://public.flourish.studio/resources/embed.js"></script></div>|   <div class="flourish-embed flourish-chart" data-src="visualisation/6067576"><script src="https://public.flourish.studio/resources/embed.js"></script></div> | <div class="flourish-embed flourish-chart » data-src="visualisation/6069222"><script src="https://public.flourish.studio/resources/embed.js"></script></div> |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+
 
