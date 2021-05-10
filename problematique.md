@@ -19,6 +19,5 @@ Est-ce que le fait qu'un objet soit passé chez un personnage ou un collectionne
 
 Est-ce que la provenance des objets d'art influence leur valeur culturelle au-delà de leur prix ?
 
-
-[Voir notre support de présentation de la première journée](https://github.com/Zale-14/PROVENANCE_DES_OEUVRES/blob/main/presentation/support_05_04_2021.pdf)
+Voilà les questions auxquelles nous tenterons de répondre pour pouvoir révéler les tendances liées à la provenance des œuvres d’art antique du XIXe siècle.
 
