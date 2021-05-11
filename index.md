@@ -1,7 +1,7 @@
 ## Bienvenue dans notre site web dédié à la provenance des oeuvres d'art du XIXe siécle
-Ce projet dont le théme principal porte sur le parcours de vie (provenance) des oeuvres d'art du XIXe siécle a été réalisé dans le cadre du séminaire MIP 2021.
+Ce projet dont le théme principal porte sur le parcours de vie (provenance) des oeuvres d'art du XIXe siécle a été réalisé dans le cadre du MIP Modélisation, représentions et données pour les M2 des masters DEFI et CRDM et quelques autres masters (Artec, etc.) - du 3 au 7 mai 2021.
 
-## Jeux de données
+## Corpus
 Les jeux de données mises à notre disposition portent sur la vente antique des objets d'art en France au XIXe siécle. Ils sont scindé en 3 bases de données dont une sur les ojets, une sur les collectionneurs et une sur les ventes.
 
 ### Objectifs
