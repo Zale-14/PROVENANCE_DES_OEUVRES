@@ -1,4 +1,4 @@
-# Visualisation
+
 La dernière phase de ce projet consiste à choisir la représentation la plus adaptée à nos données afin de rendre nos données plus humaines, donc plus compréhensibles. Mais également de pouvoir ressortir de ce lot de données les différentes tendances, en tenant compte des questions soulevées dans la problématique. 
 
 Ainsi, Flourish et Datawrapper nous semblent le meilleur choix en raison des formes de visualisations avancées que proposent les deux plateformes de datavisualisation, se situant souvent entre narration et exploration. Il arrive également que nous utilisions Excel pour les calculs et la réalisation de certains graphiques très simples (ex. Camemberts).
