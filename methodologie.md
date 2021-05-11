@@ -1,5 +1,4 @@
-# Méthodologie
-## 1. Traitement de données
+# Traitement de données
 Etant donné que nous disposons déjà des données fournies par l’INHA, nous avons premièrement cherché à identifier les données utiles pour notre analyse afin de les normaliser selon leur pertinence, de manière à avoir un corpus propre et exploitable. Cette étape s’est donc substituée à celle de la récolte des données, l’une des étapes clés de la datavisualisation. Pour cette phase, les outils de traitement de données (notamment OpenRefine, LibreOffice, NotePad++…) nous ont été d’un apport inestimable.  
 Avec OpenRefine, il était question d’identifier dans chaque base de données (fichier) les champs (colonnes) nécessaires pour visualiser la mobilité des œuvres d’art ;
 De procéder à l’élimination des champs vides qui n’ont aucune utilité, au renommage de certaines colonnes, car certaines pouvaient prêter à confusion ou alors la matrice la plus importante du nom était cachée du fait de la longueur de celle-ci ;
