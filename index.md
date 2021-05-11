@@ -49,7 +49,13 @@ L'objectif étant de parcourir d'une part les bases de données afin d'avoir le 
 
 ### Pistes de réflexion
 
+Le troisième jour du séminaire a été un tournant décisif dans la réalisation du projet parce que c’était le dernier jour avant la présentation devant le jury. Ainsi plusieurs pistes de réflexions ont été soulevées afin de trouver la bonne astuce ou technique qui nous a permis d’avoir une approche globale du sujet et d’en définir les différents axes de visualisation qui permettraient d’apporter des réponses à notre problématique. Cette image ci-dessous retrace les différentes pistes de réflexion qui nous ont conduit aux résultats obtenus.
 
+![réfléxion](https://user-images.githubusercontent.com/75143201/117734790-7780d300-b1f4-11eb-92cb-d53f673f7ec0.jpg)
+
+![reflexion](https://user-images.githubusercontent.com/75143201/117734968-dd6d5a80-b1f4-11eb-921c-5ff5496796fb.jpg)
+
+![reflexion_2](https://user-images.githubusercontent.com/75143201/117735029-f8d86580-b1f4-11eb-929d-9f49c3b293be.jpg)
 
 ### Accés aux sources
 Ci-dessous nous avons mis les différentes étapes de la réalisation du projet.
