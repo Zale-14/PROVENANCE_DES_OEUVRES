@@ -47,12 +47,15 @@ Enfin, le troisième décrit les acteurs. Ce sont généralement des familles, d
 
 L'objectif étant de parcourir d'une part les bases de données afin d'avoir le maximun d'information nécéssaire qui nous permet de mieux cerner le sujet afin de construire une problématique de recherche et d'autre part de fusionner les 3 bases de données en une seule dans l'optique de pouvoir faire des visualisations qui nous permettraient d'apporter des éléments de réponses à notre problématique.
 
+### Pistes de réflexion
+
+
 
 ### Accés aux sources
 Ci-dessous nous avons mis les différentes étapes de la réalisation du projet.
 
 - [Problématique](problematique.md)
-- [Méthodologie](methodologie.md)
+- [Traitement de données](methodologie.md)
 - [Visualisation](visualisation.md)
 
 ### Projet réalisé sous la diréction de :
