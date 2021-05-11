@@ -5,7 +5,6 @@ Ainsi, Flourish et Datawrapper nous semblent le meilleur choix en raison des for
 
 ## Flux des oeuvres d'art
 Dans notre fichier de départ (« INHA_objets.csv ») qui comptait 1348 objets, seuls 430 objets étaient associés à leur lieu de découvertes contre 918 objets. Ainsi, 68% des objets d’art n’avaient pas de lieu de découverte ou n’ont pas été renseignés. 
-Nous avons travaillé sur 1348 objets au total dans notre fichier de départ. Parmi ceux-là, seuls 430 lieux de découvertes sont connus contre 918 lieux non recensés, soit respectivement, 32% de lieux identifiés contre 68% inconnus ou non renseignés. 
 
 ![1](https://user-images.githubusercontent.com/75143201/117737021-3b9c3c80-b1f9-11eb-810f-d812c7243d7e.png)
 
