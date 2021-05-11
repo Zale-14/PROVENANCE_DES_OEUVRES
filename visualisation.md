@@ -1,5 +1,4 @@
 # Visualisation
-## Visualisation
 La dernière phase de ce projet consiste à choisir la représentation la plus adaptée à nos données afin de rendre nos données plus humaines, donc plus compréhensibles. Mais également de pouvoir ressortir de ce lot de données les différentes tendances, en tenant compte des questions soulevées dans la problématique. 
 Ainsi, Flourish et Datawrapper nous semblent le meilleur choix en raison des formes de visualisations avancées que proposent les deux plateformes de datavisualisation, se situant souvent entre narration et exploration. Il arrive également que nous utilisions Excel pour les calculs et la réalisation de certains graphiques très simples (ex. Camemberts).
 ## Flux des oeuvres d'art
@@ -43,19 +42,28 @@ Pour faire une bonne représentation graphique, pour chaque vente aux enchères,
 <iframe src='https://flo.uri.sh/visualisation/6067576/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:50%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:50%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6067576/?utm_source=embed&utm_campaign=visualisation/6067576' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 
+<iframe src='https://flo.uri.sh/visualisation/6069222/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox ='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!; margin-top:4px!important;text-align:right!important;' ><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6069222/?utm_source=embed&utm_campaign=visualisation/6069222' target='_top' style='text-decoration :none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;' > </a></div>
 
+Nous pouvons retenir de ces visualisations qu’il y a plus de vente d’objets d’art lors du cinquième jour. Cela peut se justifier de diverses raisons, notamment la première qui laisse supposer que les plus grands collectionneurs avaient l’habitude d’assister au dernier jour des ventes antiques d’objets d’art. L’autre raison peut être liée au fait qu’au dernier jour de ventes, les objets coûtent moins chers qu’au quatre premiers jours de vente.
 
+Par ailleurs, il apparaît que sur une période de trois ans de ventes aux enchères (vente beugnot, vente canino et vente magnoncour), c’est-à-dire de 1837 à 1840, le vase constitue l’œuvre d’art qui a été la plus vendue en termes de quantité mais elle est aussi la plus chère. 
+Par conséquent, nous pouvons dire que le goût pour le vase n’a cessé d’évoluer au fil des années et cela prouve qu’au XIXe siècle les gens avaient un goût particulier pour le vase d’où la place importante qu’il occupait durant les ventes aux enchères d’objets d’art du XIXe siècle.
 
 
 
 ## Conclusion
 Pour les besoins du projet, nous avons créé un site web à partir de Github qui va nous permettre de rassembler et publier toutes les informations collectées dans le processus de réalisation du projet. Nous avons créé une page principale appelée “Provenance des œuvres” qui va contenir les pages annexes par le biais de liens internes. La page principale va contenir la problématique, la méthodologie et les différentes visualisations que nous allons faire.
+
 Grâce à la cartographie des œuvres d’art, nous avons déterminer que les œuvres d’art antiques du XIXe siècles concernés par cette étude, proviennent généralement de la Grèce, suivi par l’Italie et par de l’Egypte. Cette prédominance ne surprend pas aux vues de leur influence considérable sur la culture de nombreux pays.
 Par ailleurs, elle nous permet également d’affirmer que les vases étaient les objets les plus vendus à cette époque-là. 
+
 Cependant, en raison des différentes inflations qui peuvent avoir lieu au cours de cette période, il nous est impossible d’affirmer que la provenance des œuvres d’art chez un personnage peut influencer son prix. 
 Par conséquent, on peut affirmer que la provenance des œuvres d’art influence leur prix et par ricochet, leur valeur culturelle, gage de la civilisation dont elle porte l’empreinte. 
+
 En revanche, l’hypothèse selon laquelle la provenance d’une œuvre d’art puisse influencer sa provenance, ne méritait pas d’être posée bien que notre analyse l’est renforcée. Puisque dans l’imaginaire collective et par défaut, la valeur même d’une œuvre d’art ancienne réside dans son historicité où qu’en soit le lien, du moment qu’il y a état de don authenticité. 
+
 De de fait, la provenance d’un objet peut justifier le prix qui lui est attribué. Pour certaines ventes par exemple, les prix connaissent une hausse dès les premiers jours et on assiste à une baisse à la fin de la vente. Alors que pour d'autres, c’est le contraire : la baisse des prix est au début de la vente et il augmente au fur de la vente, vers les derniers jours.
+
 En somme, retenons que selon les ventes et la période concernée, les goûts ont évolué. Mais ce qui est important à souligner est le fait que les différentes ventes exposent globalement les mêmes objets d’art. L’authenticité et la valeur des objets exposés ont justifié l’importance et le succès des ventes des œuvres d’art d’antiques.
 Force est de constater que selon les ventes et la période, les goûts et les prix n’ont pas été les mêmes.
 
