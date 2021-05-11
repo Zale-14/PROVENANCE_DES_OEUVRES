@@ -1,6 +1,8 @@
 # Visualisation
 La dernière phase de ce projet consiste à choisir la représentation la plus adaptée à nos données afin de rendre nos données plus humaines, donc plus compréhensibles. Mais également de pouvoir ressortir de ce lot de données les différentes tendances, en tenant compte des questions soulevées dans la problématique. 
+
 Ainsi, Flourish et Datawrapper nous semblent le meilleur choix en raison des formes de visualisations avancées que proposent les deux plateformes de datavisualisation, se situant souvent entre narration et exploration. Il arrive également que nous utilisions Excel pour les calculs et la réalisation de certains graphiques très simples (ex. Camemberts).
+
 ## Flux des oeuvres d'art
 Dans notre fichier de départ (« INHA_objets.csv ») qui comptait 1348 objets, seuls 430 objets étaient associés à leur lieu de découvertes contre 918 objets. Ainsi, 68% des objets d’art n’avaient pas de lieu de découverte ou n’ont pas été renseignés. 
 Nous avons travaillé sur 1348 objets au total dans notre fichier de départ. Parmi ceux-là, seuls 430 lieux de découvertes sont connus contre 918 lieux non recensés, soit respectivement, 32% de lieux identifiés contre 68% inconnus ou non renseignés. 
@@ -14,7 +16,9 @@ Par ailleurs, ce taux d’indisponibilité de données géographiques est très 
 
 
 Ainsi, la difficulté liée au traitement de la provenance des œuvres d’art prend tout son sens, dans la mesure où, ni l’un ou l’autre des postulats de départ ne satisfassent en termes de données géographiques, indispensables pour établir la provenance des objets. 
+
 Cependant, l’absence de certaines données géographiques n'incorpore pas une incertitude qu’on pourrait attribuer aux valeurs manquantes puisqu’elles ont été mises de côté pour la même raison : ne pas fausser les résultats. Au contraire, elle offre un éventail non débordant pour le traitement et suffisant pour sortir les différentes tendances liées à la provenance des œuvres d’art.
+
 L’axe des « lieux de découvertes » nous semble donc plus intéressant à exploiter, d’où notre choix de traiter la provenance des œuvres d'art antique du XIXe siècle à partir des lieux de découvertes. 
 Par conséquent, l’établissement du flux des œuvres d’art dans le temps et dans l’espace est uniquement calqué sur la base des pistes de localisations disponibles
 
@@ -27,6 +31,7 @@ Par conséquent, l’établissement du flux des œuvres d’art dans le temps et
 L’objectif de ce graphique est de montrer le flux  des objets dans le temps et dans l’espace, du lieu où ils ont été découverts à leur lieu de conservation, la direction du flux étant du vert au rose : les racines en couleur verte représentent les lieux de découvertes et les directions en couleur roses sont les lieux de détentions des objets après ventes. 
 
 L’avantage de ce graphique, c’est qu’il permet également d’étudier les objets par catégorie (type d’objet) grâce à la fonctionnalité dite « menu déroulant » et de pouvoir déterminer le type d’objet qui provient généralement de tel ou tel pays (ex. Egypte, d’Italie ou de la Grèce) qui l’aurait vendu et éventuellement connaitre son prix au marché à cette période-là.
+
 En somme, la concentration des racines en vert correspondant au lieu de découverte, que ce soit dans la généralité ou par catégorie d’objet, montre que les objets d’art que nous étudions, ceux dont les lieux de découverte sont connus, proviennent majoritairement de l’Italie et de la Grèce. 
 
 ## Visualisation de l’évolution des ventes 
