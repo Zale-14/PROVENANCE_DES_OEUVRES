@@ -56,10 +56,10 @@ Ci-dessous nous avons mis les différentes étapes de la réalisation du projet.
 - [Principaux résultats](visualisation.md)
 
 ### Projet réalisé sous la diréction de :
-Monsieur Antoine COURTIN
+- Monsieur Antoine COURTIN
 
-Monsieur Dario CAMPAGNO
+- Monsieur Dario CAMPAGNO
 
-Monsieur Benjamin BARBIER
+- Monsieur Benjamin BARBIER
 
-Monsieur Nicolas SAURET
+- Monsieur Nicolas SAURET
