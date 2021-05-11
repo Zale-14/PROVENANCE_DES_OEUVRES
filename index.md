@@ -58,7 +58,6 @@ Le troisième jour du séminaire a été un tournant décisif dans la réalisati
 ![reflexion_2](https://user-images.githubusercontent.com/75143201/117735029-f8d86580-b1f4-11eb-929d-9f49c3b293be.jpg)
 
 ### Accés aux sources
-Ci-dessous nous avons mis les différentes étapes de la réalisation du projet.
 
 - [Problématique](problematique.md)
 - [Traitement de données](methodologie.md)
