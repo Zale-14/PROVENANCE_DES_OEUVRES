@@ -4,13 +4,21 @@ Organisé à l’initiative de Marta Severo et de Antonin Segault en collaborati
 En plus de l’enseignement des formateurs sur la réalisation de projet de recherche à partir de l’exploration de corpus numériques, à l’aide des méthodes qualitatives et quantitatives, l’objectif de ces ateliers est aussi d’amener les apprentis en immersion sur les bonnes pratiques autour des données patrimoniales et de les accompagner sur ses outils de visualisations.
 
 Ainsi, les étudiants sont amenés à réaliser un article de blog en fin de semaine qui devra comprendre une question de recherche, une méthodologie et livrer leurs principaux résultats sur l’une des thématiques suivantes : 
+
 ●	Le corps ;
+
 ●	Les parfums ;
+
 ●	Les vaccins ;
+
 ●	La campagne de santé (drogue, alcoolisme…) ;
+
 ●	La protection périodique ;
+
 ●	Le cirque ;
+
 ●	La provenance (mobilité des œuvres d’art et ;
+
 ●	La matérialité des œuvres d’art.
 
 Pour ce qui nous concerne, nous avons un attrait particulier, mêlé de curiosité, aussi bien sur la provenance des œuvres d’art antiques au XIXe siècle, que pour les outils de visualisation qui nous passionnent depuis qu’on les a découverts grâce à Monsieur Antoine Courtin.
